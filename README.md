@@ -1,4 +1,4 @@
-# MailMind
+# MAILMind
 
 MAILMind: Neural Network Classification for Email Categorization
 Welcome to MAILMind, a powerful C library for neural network-based email categorization. This library is designed to help you classify emails into various categories such as spam, complaints, offers, and more. With MAILMind, you can streamline your email processing pipeline and enhance the efficiency of your email management system.
